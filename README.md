@@ -12,12 +12,17 @@ This project is a React Native-based Chatbot application called "Gemini Chatbot"
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
-1. Explaining the working of project
+### 1. Working of project
    **Real-time Chat Interface :** Users can interact with the chatbot in real-time, typing messages and receiving responses instantly.
+   
    **Voice Synthesis:** The chatbot can convert text responses into speech, enabling users to listen to the replies.
+   
    **Dynamic Response Generation:** Responses are generated using a machine learning model (Gemini Pro) deployed via an API. The model analyzes the conversation history and generates contextually relevant responses.
+   
    **User and Model Roles:** Chat messages are categorized into "user" and "model" roles, distinguishing between user inputs and AI-generated responses.
+   
    **Custom Styling:** The chat interface is styled for a modern and user-friendly experience.
+   
 3. Embed video of project demo
 ## Libraries used
 Library Name - Version
