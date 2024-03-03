@@ -5,13 +5,17 @@
 
 
 # geminiApp
-This project is a React Native-based Chatbot application called "Gemini Chatbot". It utilizes machine learning to generate conversational responses in real-time. The primary goal of the project is to provide users with an interactive chat interface where they can converse with an AI-powered chatbot.
+This project is a React Native-based Chatbot application called "Gemini Chatbot". It utilizes Gemini API to generate conversational responses in real-time. The primary goal of the project is to provide users with an interactive chat interface where they can converse with an AI-powered chatbot.
+
 ## Team members
 1. [Sreyas M Pillai](https://github.com/Sreyas62)
 2. [Nandkishor R](https://github.com/nandkishorr)
+
 ## Link to product walkthrough
 [link to video](Link Here)
+
 ## How it Works ?
+
 ### 1. Working of project
    **Real-time Chat Interface :** Users can interact with the chatbot in real-time, typing messages and receiving responses instantly.
    
@@ -23,16 +27,24 @@ This project is a React Native-based Chatbot application called "Gemini Chatbot"
    
    **Custom Styling:** The chat interface is styled for a modern and user-friendly experience.
    
-3. Embed video of project demo
-https://github.com/Sreyas62/Expo-project/assets/96684846/c007f2c6-91ff-4d93-b305-eabce547ee40
+### 2. Embed video of project demo
+   
+  https://github.com/Sreyas62/Expo-project/assets/96684846/c007f2c6-91ff-4d93-b305-eabce547ee40
 
 ## Libraries used
-React Native: Version X.XX
-Axios: Version X.XX
-Expo Speech: Version X.XX
-Ionicons: Version X.XX
+
+React Native: Version 18.2.0
+
+Axios: Version 1.6.7
+
+Expo Speech: Version 11.7.0
+
+Ionicons: Version 4.6.5
+
 ## How to configure
-Instructions for setting up project
+
+### Instructions for setting up project
+
 **Clone Repository :** Clone the project repository from the GitHub link.
 
 **Install Dependencies :** Navigate to the project directory and run npm install to install the required dependencies.
@@ -44,8 +56,9 @@ Instructions for setting up project
 **Customization :** Customize the UI, styling, or additional features as per your requirements.
 
 ## How to Run
-Instructions for running
+
+### Instructions for running
+
 **Start Development Server :** Run npm start or expo start to start the development server.
+
 **Run on Emulator/Device :** Use Expo CLI to run the application on an emulator or physical device for testing.
-**Debugging :** Use debugging tools provided by React Native and Expo for troubleshooting any issues during development.
-**Deployment :** Deploy the application to relevant app stores or platforms using the appropriate deployment process for React Native applications.
