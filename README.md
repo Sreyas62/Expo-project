@@ -11,8 +11,8 @@ This project is a React Native-based Chatbot application called "Gemini Chatbot"
 1. [Sreyas M Pillai](https://github.com/Sreyas62)
 2. [Nandkishor R](https://github.com/nandkishorr)
 
-## Link to product walkthrough
-[link to video](Link Here)
+## Github Link
+[Github repo](https://github.com/Sreyas62/geminiApp)
 
 ## How it Works ?
 
